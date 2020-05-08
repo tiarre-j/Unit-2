@@ -1,4 +1,4 @@
-# Flix
+# Unit 2
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
 ## Flix Part 2
@@ -35,7 +35,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (2pts) For popular movies (i.e. a movie voted for more than 5 stars), the full backdrop image is displayed. Otherwise, a poster image, the movie title, and overview is listed. Use Heterogenous RecyclerViews and use different ViewHolder layout files for popular movies and less popular ones.
 
 ### App Walkthough GIF
-`Flix.again.gif` 
+`Unit2.gif` 
 <img src="https://github.com/tiarre-j/Unit-2/blob/master/TiarreJackson2.gif" width=250><br>
 
 ### Notes
